@@ -7,4 +7,4 @@ Developed by:
 
 This website is for the AGI-CSE ACM chapter.
 
-Website link: acmcvsr.000webhostapp.com
+Website link: http://acmcvsr.000webhostapp.com/
